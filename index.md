@@ -39,6 +39,15 @@ use [rime](https://rime.im)
 
 here is rime's [wiki](https://github.com/rime/home/wiki)
 
+### Install
+
+```
+sudo apt install ibus-rime
+
+# wubi
+sudo apt install librime-data-wubi
+
+```
 <https://blog.csdn.net/Sacredness/article/details/92195032>
 
 ---
