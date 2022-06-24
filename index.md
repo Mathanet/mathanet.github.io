@@ -14,7 +14,7 @@
 
 ### How to install fonts in Ubuntu?
 
-Unpack fonts to ~/.local/share/fonts (or /usr/share/fonts, to install fonts system-wide) and fc-cache -f -v
+Unpack fonts to ~/.local/share/fonts (or /usr/share/fonts, to install fonts system-wide) and `fc-cache -f -v`
 
 here is some recommend
 
