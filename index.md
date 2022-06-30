@@ -7,7 +7,7 @@
 - [vscode](https://code.visualstudio.com/)
 - [edge](https://www.microsoft.com/zh-cn/edge)
 - [nvim](https://github.com/neovim/neovim)
-
+- [icalingua++ (QQ for linux)](https://github.com/icalingua-plus-plus/icalingua-plus-plus)
 ---
 
 ## fonts
