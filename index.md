@@ -16,6 +16,8 @@
 
 Unpack fonts to `~/.local/share/fonts` (or `/usr/share/fonts`, to install fonts system-wide) and `fc-cache -f -v`
 
+or add them in `/etc/fonts/conf.d/64-language-selector-prefer.conf`
+
 here is some recommend
 
 ---
