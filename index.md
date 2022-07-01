@@ -3,6 +3,7 @@
 ## Applications
 
 - [etcher](https://www.balena.io/etcher/)
+- [WoeUSB](http://download.opensuse.org/repositories/home:/Provessor/xUbuntu_20.04/amd64/)
 - [chrome](https://www.google.cn/chrome/index.html)
 - [vscode](https://code.visualstudio.com/)
 - [edge](https://www.microsoft.com/zh-cn/edge)
