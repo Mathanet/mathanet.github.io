@@ -23,6 +23,12 @@
 ---
 
 ## Terminal
+use [wezterm](https://wezfurlong.org/wezterm/)
+set wezterm as default terminal
+```bash
+sudo update-alternatives --config x-terminal-emulator
+```
+## Shell
 
 use zsh and [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
